@@ -9,3 +9,6 @@ Translate to C:
 2. Prompt Copilot to translate the Python into C for you
 3. Compile code
 4. Voila!
+
+Resources
+- https://drive.google.com/drive/search?q=debugger
